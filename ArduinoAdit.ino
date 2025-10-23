@@ -1,6 +1,6 @@
 const int ledPins[] = {10, 11, 12, 13};
 const int numLEDs = 4;
-
+//yy
 const int buttonNext = 2;
 const int buttonConfirm = 3;
 const int potPin = A0;
